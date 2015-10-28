@@ -1,0 +1,15 @@
+/*
+ * Stylesheet created by George Chen 27th October 20115
+ */
+
+.left {
+    float: left;
+}
+.update_right {
+    float: right;
+    display: none;
+}
+.new_right {
+    float: right;
+    display: none;
+}
